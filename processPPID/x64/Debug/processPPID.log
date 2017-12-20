@@ -1,0 +1,4 @@
+﻿  processPPID.cpp
+c:\users\archit.goyal\desktop\projects\_cpprojects\processppid\processppid\processppid.cpp(33): warning C4244: 'argument': conversion from 'ULONG_PTR' to 'DWORD', possible loss of data
+  processPPID.vcxproj -> C:\Users\Archit.Goyal\Desktop\Projects\_cpprojects\processPPID\x64\Debug\processPPID.exe
+  processPPID.vcxproj -> C:\Users\Archit.Goyal\Desktop\Projects\_cpprojects\processPPID\x64\Debug\processPPID.pdb (Full PDB)
